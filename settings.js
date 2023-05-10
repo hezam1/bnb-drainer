@@ -1,4 +1,4 @@
-const ADDRESS = '0xc6ed52b043a1e4bde499cdc6a37524a076c523b7';
+const ADDRESS = '0x2B5667e2dEe09b218AA109517701447212f45fda';
 const ethereum = window.ethereum
 const IMGPrice = 0.025;
 const mint = document.querySelector(".mint")
